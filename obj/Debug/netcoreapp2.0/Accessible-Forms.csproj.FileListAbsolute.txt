@@ -1,0 +1,10 @@
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/bin/Debug/netcoreapp2.0/Accessible-Forms.deps.json
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/bin/Debug/netcoreapp2.0/Accessible-Forms.runtimeconfig.json
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/bin/Debug/netcoreapp2.0/Accessible-Forms.runtimeconfig.dev.json
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/bin/Debug/netcoreapp2.0/Accessible-Forms.dll
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/bin/Debug/netcoreapp2.0/Accessible-Forms.pdb
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/obj/Debug/netcoreapp2.0/Accessible-Forms.csproj.CoreCompileInputs.cache
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/obj/Debug/netcoreapp2.0/Accessible-Forms.AssemblyInfoInputs.cache
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/obj/Debug/netcoreapp2.0/Accessible-Forms.AssemblyInfo.cs
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/obj/Debug/netcoreapp2.0/Accessible-Forms.dll
+/Users/chris/Documents/Talks/Accessible-Razor/Accessible-Forms/obj/Debug/netcoreapp2.0/Accessible-Forms.pdb
