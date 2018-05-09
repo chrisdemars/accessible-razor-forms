@@ -9,5 +9,6 @@
     <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.configuration.usersecrets/2.0.0/build/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.targets" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.configuration.usersecrets/2.0.0/build/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.targets')" />
     <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.mvc.razor.viewcompilation/2.0.2/build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.ViewCompilation.targets" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.mvc.razor.viewcompilation/2.0.2/build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.ViewCompilation.targets')" />
     <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.all/2.0.5/build/netcoreapp2.0/Microsoft.AspNetCore.All.targets" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.all/2.0.5/build/netcoreapp2.0/Microsoft.AspNetCore.All.targets')" />
+    <Import Project="$(NuGetPackageRoot)buildbundlerminifier/2.7.385/build/BuildBundlerMinifier.targets" Condition="Exists('$(NuGetPackageRoot)buildbundlerminifier/2.7.385/build/BuildBundlerMinifier.targets')" />
   </ImportGroup>
 </Project>

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7c6491b782d123313f51c5d8be7df63ef9431974"
+    "signature": "1a0eeb93dd8e741f5ea6371d33b81039cd978d99"
   },
   "compilationOptions": {
     "defines": [
@@ -23,6 +23,7 @@
     ".NETCoreApp,Version=v2.0": {
       "Accessible-Forms/1.0.0": {
         "dependencies": {
+          "BuildBundlerMinifier": "2.7.385",
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.NETCore.App": "2.0.0"
         },
@@ -33,6 +34,7 @@
           "Accessible-Forms.dll": {}
         }
       },
+      "BuildBundlerMinifier/2.7.385": {},
       "Libuv/1.10.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.0.0"
@@ -3977,6 +3979,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "BuildBundlerMinifier/2.7.385": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u/Q1RqLEJN3udX4pE4vxbpTGDldYiR+sFCXfi3LwAUxI4Q4ujM744+MucQnghEYlRaA6GOxdlRCREvg6kO5VrA==",
+      "path": "buildbundlerminifier/2.7.385",
+      "hashPath": "buildbundlerminifier.2.7.385.nupkg.sha512"
     },
     "Libuv/1.10.0": {
       "type": "package",
