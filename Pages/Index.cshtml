@@ -2,7 +2,7 @@
 @model IndexModel
 
 	<h1>Accessible Forms w/Razor!</h1>
-	<form>
+	<!-- <form>
 		<div>
 			<label for="firstName">First name</label>
 			<input type="text">
@@ -29,4 +29,10 @@
 		<div class="button">
 			<button>Charlotte is awesome!</button>
 		</div>
-	</form>
+	</form> -->
+
+    @using(Html.BeginForm(FormMethod.Post))
+    {
+        @Html.Label("name", "Name")
+        @Html.TextBox("name", null, new { @class="textbox"})
+    }
